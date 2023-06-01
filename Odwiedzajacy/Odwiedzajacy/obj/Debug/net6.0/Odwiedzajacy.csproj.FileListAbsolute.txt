@@ -1,0 +1,15 @@
+C:\Users\wojte\OneDrive\Pulpit\Programy CSHARP\Odwiedzajacy\Odwiedzajacy\bin\Debug\net6.0\Odwiedzajacy.exe
+C:\Users\wojte\OneDrive\Pulpit\Programy CSHARP\Odwiedzajacy\Odwiedzajacy\bin\Debug\net6.0\Odwiedzajacy.deps.json
+C:\Users\wojte\OneDrive\Pulpit\Programy CSHARP\Odwiedzajacy\Odwiedzajacy\bin\Debug\net6.0\Odwiedzajacy.runtimeconfig.json
+C:\Users\wojte\OneDrive\Pulpit\Programy CSHARP\Odwiedzajacy\Odwiedzajacy\bin\Debug\net6.0\Odwiedzajacy.dll
+C:\Users\wojte\OneDrive\Pulpit\Programy CSHARP\Odwiedzajacy\Odwiedzajacy\bin\Debug\net6.0\Odwiedzajacy.pdb
+C:\Users\wojte\OneDrive\Pulpit\Programy CSHARP\Odwiedzajacy\Odwiedzajacy\obj\Debug\net6.0\Odwiedzajacy.csproj.AssemblyReference.cache
+C:\Users\wojte\OneDrive\Pulpit\Programy CSHARP\Odwiedzajacy\Odwiedzajacy\obj\Debug\net6.0\Odwiedzajacy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wojte\OneDrive\Pulpit\Programy CSHARP\Odwiedzajacy\Odwiedzajacy\obj\Debug\net6.0\Odwiedzajacy.AssemblyInfoInputs.cache
+C:\Users\wojte\OneDrive\Pulpit\Programy CSHARP\Odwiedzajacy\Odwiedzajacy\obj\Debug\net6.0\Odwiedzajacy.AssemblyInfo.cs
+C:\Users\wojte\OneDrive\Pulpit\Programy CSHARP\Odwiedzajacy\Odwiedzajacy\obj\Debug\net6.0\Odwiedzajacy.csproj.CoreCompileInputs.cache
+C:\Users\wojte\OneDrive\Pulpit\Programy CSHARP\Odwiedzajacy\Odwiedzajacy\obj\Debug\net6.0\Odwiedzajacy.dll
+C:\Users\wojte\OneDrive\Pulpit\Programy CSHARP\Odwiedzajacy\Odwiedzajacy\obj\Debug\net6.0\refint\Odwiedzajacy.dll
+C:\Users\wojte\OneDrive\Pulpit\Programy CSHARP\Odwiedzajacy\Odwiedzajacy\obj\Debug\net6.0\Odwiedzajacy.pdb
+C:\Users\wojte\OneDrive\Pulpit\Programy CSHARP\Odwiedzajacy\Odwiedzajacy\obj\Debug\net6.0\Odwiedzajacy.genruntimeconfig.cache
+C:\Users\wojte\OneDrive\Pulpit\Programy CSHARP\Odwiedzajacy\Odwiedzajacy\obj\Debug\net6.0\ref\Odwiedzajacy.dll
